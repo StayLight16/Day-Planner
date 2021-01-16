@@ -19,3 +19,5 @@ THEN the saved events persist
 ```
 
 In order to meet criteria, I had to complete various tasks within HTML, CSS, and Javascript. This was not easy. I'll need to do this over again to drill things down, lol. Pratice makes perfect, eh? 
+
+Deployed version: https://staylight16.github.io/Day-Planner/ 
