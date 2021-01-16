@@ -46,3 +46,16 @@ var time7 = beforeTime.add(1, "h");
 time7 = time7.format('hh:mm A');
 // Populates time formula into html
 $(".block7").text(time7);
+// 4 PM
+var time8 = beforeTime.add(1, "h");
+time8 = time8.format('hh:mm A');
+// Populates time formula into html
+$(".block8").text(time8);
+// 5 PM
+var time9 = beforeTime.add(1, "h");
+time9 = time9.format('hh:mm A');
+// Populates time formula into html
+$(".block9").text(time9);
+
+// Function to compare hour slots with current time 
+// Update these to coordinating numbers
